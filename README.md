@@ -4,7 +4,7 @@
 <h3 align="center">Software developer from Mexico </h3>
 <br/>
 <h3 align="center">
-Check out my repos and feel freeto contact Me!
+Check out my repos and feel free to contact me!
 </h3>
 <div align="center"> 
   <a href="Israeljuarex@gmail.com">
