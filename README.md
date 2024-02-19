@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Israel+Juarez!;" />
 </h1>
-<h3 align="center">Software developer from Mexico </h3>
+<h3 align="center">Software developer and tech passionate from Mexico </h3>
 <br/>
 <h3 align="center">
 Check out my repos and feel free to contact me!
